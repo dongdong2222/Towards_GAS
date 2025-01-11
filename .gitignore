@@ -83,3 +83,9 @@ DerivedDataCache/*
 # Rider user specific files
 .idea/
 /Plugins/Developer/RiderLink
+
+# all Content files
+Content/*
+#except Commitfile
+!Content/0_Commit/
+!Content/0_Commit/**
